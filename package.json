@@ -15,5 +15,9 @@
     "gulp-imagemin": "^7.1.0",
     "gulp-sass": "^5.1.0",
     "sass": "^1.68.0"
+  },
+  "dependencies": {
+    "imagemin-gifsicle": "^7.0.0",
+    "imagemin-svgo": "^10.0.1"
   }
 }
