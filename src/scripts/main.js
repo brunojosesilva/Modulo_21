@@ -63,5 +63,5 @@ function ocultaElementosHeader() {
 
 function exibeElementosHeader() {
     const header = document.querySelector('header');
-    header.classList.remove('header--is-hidden');
+    header.classList.remove('header--is-hidden'); 
 }
